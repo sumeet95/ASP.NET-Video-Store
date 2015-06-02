@@ -1,0 +1,8 @@
+﻿A:link {text-decoration: none;
+        color:black
+}
+A:visited {text-decoration: none;
+           color:black
+}
+A:active {text-decoration: none}
+A:hover {font-size:24; font-weight:bold; color: yellow;}
